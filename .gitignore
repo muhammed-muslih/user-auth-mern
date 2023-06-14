@@ -1,0 +1,8 @@
+.parcel-cache/
+backend.env/
+config/
+backend.env
+dist/
+node_modules/
+.postcssrc
+tailwind.config.js
