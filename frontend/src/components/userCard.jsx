@@ -7,9 +7,6 @@ import {useNavigate} from 'react-router-dom'
 
 
 
-
-
-
 const UserCard = ()=>{
 const data = useSelector((state)=>state.singleUser)
 const resImage = useSelector((state)=>state.uploadImage)
